@@ -11,7 +11,7 @@ import utils.conf as conf
 import argparse  # Command line parsing
 from corpus.textdata import TextData
 
-import connection
+# import connection
 
 gen_config = conf.gen_config
 disc_config = conf.disc_config
